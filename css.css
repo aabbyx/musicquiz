@@ -1,0 +1,16 @@
+div {}
+
+h1 {
+   text-decoration: oblique;
+  text-decoration-color: #fc6c85;
+  color: black;
+  background-color: #599;
+}
+
+li {
+  color: blueviolet;
+}
+
+button {
+  color: blue;
+}
